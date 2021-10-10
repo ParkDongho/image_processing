@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-10T08:08:51.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="m2AcslfS97d88Rd-ytSZ" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-10T08:10:06.702Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="Iu5tReFLDohAfdGlkKq3" version="15.5.0" type="github">
   <diagram id="62W4XJTX_VT2LggmOyYF" name="System Overview">
     <mxGraphModel dx="1194" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,10 +25,10 @@
         <mxCell id="_eUac5zgVEyXwvHSKixd-9" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5331263950892825;arrowSize=0.4555557250976553;" vertex="1" parent="1">
           <mxGeometry x="450" y="397.5" width="30" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_eUac5zgVEyXwvHSKixd-10" value="AMBA AXI4&lt;br&gt;STREAM SLAVE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_eUac5zgVEyXwvHSKixd-10" value="AMBA AXI4&lt;br&gt;STREAM SLAVE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="400" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_eUac5zgVEyXwvHSKixd-11" value="AMBA AXI4&lt;br&gt;STREAM MASTER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_eUac5zgVEyXwvHSKixd-11" value="AMBA AXI4&lt;br&gt;STREAM MASTER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="650" y="400" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
