@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-10-10T08:02:51.654Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" version="15.5.0" etag="m6A1Rc7V32v03BZ6pECs" type="github"><diagram id="62W4XJTX_VT2LggmOyYF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-10T08:08:51.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="m2AcslfS97d88Rd-ytSZ" version="15.5.0" type="github">
+  <diagram id="62W4XJTX_VT2LggmOyYF" name="System Overview">
+    <mxGraphModel dx="1194" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_eUac5zgVEyXwvHSKixd-1" value="RGB24 to YCbCr&lt;br&gt;Converter" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="370" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_eUac5zgVEyXwvHSKixd-2" value="YCbCr to RGB24&lt;br&gt;Converter" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_eUac5zgVEyXwvHSKixd-3" value="Contrast Enhancer" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="330" y="370" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_eUac5zgVEyXwvHSKixd-5" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5331263950892825;arrowSize=0.4555557250976553;" vertex="1" parent="1">
+          <mxGeometry x="130" y="397.5" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_eUac5zgVEyXwvHSKixd-7" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5331263950892825;arrowSize=0.4555557250976553;" vertex="1" parent="1">
+          <mxGeometry x="600" y="397.5" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_eUac5zgVEyXwvHSKixd-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5331263950892825;arrowSize=0.4555557250976553;" vertex="1" parent="1">
+          <mxGeometry x="300" y="397.5" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_eUac5zgVEyXwvHSKixd-9" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.5331263950892825;arrowSize=0.4555557250976553;" vertex="1" parent="1">
+          <mxGeometry x="450" y="397.5" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_eUac5zgVEyXwvHSKixd-10" value="AMBA AXI4&lt;br&gt;STREAM SLAVE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_eUac5zgVEyXwvHSKixd-11" value="AMBA AXI4&lt;br&gt;STREAM MASTER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="400" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
